@@ -8,7 +8,17 @@ To offer to license or relicense a project through [Website], you must agree to 
 
     \Relicense Terms\  [Agent] may only sign a relicense agreement on your behalf on the terms of the current form relicense agreement published on [Website] at the time of the transaction, for the price you set via the [Website] API.
 
-    \Pricing Changes\  You may change the pricing for licensing and relicensing through the [Website] API.  If you change pricing, [Agent] may continue to license and relicense at the old pricing with customers who began the purchase process before you made your changes, but [Agent] agrees to use your new pricing for all new transactions.
+    \Pricing Changes\  Unless you lock your project, you may change the pricing for licensing and relicensing through the [Website] API.  If you change pricing, [Agent] may continue to license and relicense at the old pricing with customers who began the purchase process before you made your changes, but [Agent] agrees to use your new pricing for all new transactions.
+
+    \Locks\  You may lock your project through the [Website] API.  By locking your project, you commit to offer private licenses through [Agent] at or below the current price, until the unlock date that you provide.  While your project is locked:
+
+        \\  You may not increase the price of private licenses sold through [Agent].
+
+        \\  You may not end the agency relationship.
+
+        \\  You may continue to change relicense pricing.
+
+    \Locks are Irrevocable!!  [Agent] will not unlock your project early under any circumstances.  [Agent] will publish information about locks on [Website], for others to see and rely upon.
 
     \Forms Changes\  [Agent] may change the terms of the current form private licenses and relicense agreement.  It is your responsibility to review them periodically.
 
@@ -16,7 +26,7 @@ To offer to license or relicense a project through [Website], you must agree to 
 
     \Warranties\  You promise that you are legally entitled to grant private licenses and enter any relicense agreement that you offer through the [Website] API, and will be as long as the agency relationship continues.  You promise that that you are not breaching any agreement with anyone else by agreeing to these agency terms.
 
-    \Ending the Relationship\  You may end the agency relationship for any project at any time by retracting your project via the [Website] API.  [Agent] may continue to license and relicense with customers who began the purchase process before you retracted your project.  [Agent] may end the agency relationship at any time.
+    \Ending the Relationship\  Unless your project is locked, you may end the agency relationship for the project at any time, by retracting your project via the [Website] API.  [Agent] may continue to license and relicense with customers who began the purchase process before you retracted your project.  [Agent] may end the agency relationship at any time.
 
     \Other Relicensing\  You agree to retract your project through the [Website] API if you ever publicly license your project on terms other than those of the latest version of a public license published on [Website] when you offered the project, any later version published on [Website], or any new public license published on [Website].
 
