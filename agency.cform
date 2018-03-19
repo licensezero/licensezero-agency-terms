@@ -8,11 +8,11 @@ To offer to license or relicense a project through [Website], you must agree to 
 
     \Relicense Terms\  [Agent] may only sign a relicense agreement on your behalf on the terms of the current form relicense agreement published on [Website] at the time of purchase, for the price you set via the [Website] API.
 
-    \Pricing Changes\  Unless you lock your project, you may change the pricing for licensing and relicensing through the [Website] API.  If you change pricing, [Agent] may continue to license and relicense at the old pricing with customers who began the purchase process before you made your changes, but [Agent] agrees to use your new pricing for all new purchases.
+    \Pricing Changes\  Unless you lock your project, you may change prices for licensing and relicensing through the [Website] API.  If you change prices, [Agent] may continue to license and relicense at the old prices with customers who began the purchase process before you made your changes, but [Agent] agrees to use your new pricing for all new purchases.
 
     \Locks\  You may lock your project through the [Website] API, by providing an unlock date.  Until the unlock date:
 
-        \\  You may decrease, but not increase, the price of private licenses sold through [Agent].
+        \\  You may not increase the price of private licenses sold through [Agent] above the price when you locked your project.
 
         \\  You may not end the agency relationship.
 
