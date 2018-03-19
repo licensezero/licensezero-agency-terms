@@ -2,13 +2,13 @@ To offer to license or relicense a project through [Website], you must agree to 
 
     \Private License Agent\  You appoint [Agent] your agent to license the software project that you offer through the [Website] API.  [Agent] may sign license agreements on your behalf, and those licenses will have the same legal effect as if you signed them yourself.
 
-    \Private License Terms\  [Agent] may only sign licenses on your behalf on the terms of the current form private license agreements published on [Website] at the time of each transaction, for the prices you set via the [Website] API.
+    \Private License Terms\  [Agent] may only sign licenses on your behalf on the terms of the current form private license agreements published on [Website] at the time of each purchase, for the prices you set via the [Website] API.
 
     \Relicense Agent\  If you set a relicense price for your project via the [Website] API, you appoint [Agent] your agent to offer and enter into a relicense agreement.  [Agent] may sign a relicense agreement on your behalf, and that agreement will have the same legal effect as if you signed it yourself.
 
-    \Relicense Terms\  [Agent] may only sign a relicense agreement on your behalf on the terms of the current form relicense agreement published on [Website] at the time of the transaction, for the price you set via the [Website] API.
+    \Relicense Terms\  [Agent] may only sign a relicense agreement on your behalf on the terms of the current form relicense agreement published on [Website] at the time of purchase, for the price you set via the [Website] API.
 
-    \Pricing Changes\  Unless you lock your project, you may change the pricing for licensing and relicensing through the [Website] API.  If you change pricing, [Agent] may continue to license and relicense at the old pricing with customers who began the purchase process before you made your changes, but [Agent] agrees to use your new pricing for all new transactions.
+    \Pricing Changes\  Unless you lock your project, you may change the pricing for licensing and relicensing through the [Website] API.  If you change pricing, [Agent] may continue to license and relicense at the old pricing with customers who began the purchase process before you made your changes, but [Agent] agrees to use your new pricing for all new purchases.
 
     \Locks\  You may lock your project through the [Website] API, by providing an unlock date.  Until the unlock date:
 
