@@ -8,14 +8,6 @@ You appoint `Agent` your agent to license the software project that you offer th
 
 `Agent` may only sign licenses on your behalf on the terms of the current form private license agreements published on `Website` at the time of each purchase, for the prices you set via the `Website` API.
 
-# Relicense Agent
-
-If you set a relicense price for your project via the `Website` API, you appoint `Agent` your agent to offer and enter into a relicense agreement.  `Agent` may sign a relicense agreement on your behalf, and that agreement will have the same legal effect as if you signed it yourself.
-
-# Relicense Terms
-
-`Agent` may only sign a relicense agreement on your behalf on the terms of the current form relicense agreement published on `Website` at the time of purchase, for the price you set via the `Website` API.
-
 # Pricing Changes
 
 Unless you lock your project, you may change prices for licensing and relicensing through the `Website` API.  If you change prices, `Agent` may continue to license and relicense at the old prices with customers who began the purchase process before you made your changes, but `Agent` agrees to use your new pricing for all new purchases.
